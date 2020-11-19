@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+}
+.cost{
+	background-color:#3d3e40;
+	margin-left: -670px;
+	text-align: center;
+	font-size: 16px;
+}
+.cost:hover{
+	color: crimson;
+	background-color: crimson;
+
+}
+.moma{
+
+	margin-left: -595px;
+	position: relative;
+	top: 233px;
+}
+.van{
+	background-color:#3d3e40;
+	margin-bottom: 90px;
+	margin-left:-133px;
+	text-align: center;
+
+}
+.cet{
+	margin-right: 90px;
+}
+.toy{
+	margin-left: -595px;
+	position: relative;
+	top: 234px;
+}
+
+.me{
+	margin-bottom: 91px;
+	background-color:#3d3e40;
+	margin-left: -260px;
+	text-align: center;
+}
+.des{
+	margin-bottom: 78px;
+}
+.grass{
+ margin-left: -145px;
+ margin-top: 150px;
+}
+.post{
+	margin-top: 135px;
+	margin-left: 155px;
+}
